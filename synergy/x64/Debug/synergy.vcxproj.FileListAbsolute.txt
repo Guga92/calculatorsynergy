@@ -1,0 +1,3 @@
+C:\Users\Yunusovrf\source\repos\synergy\synergy\x64\Debug\synergy.vcxproj.AssemblyReference.cache
+C:\Users\Yunusovrf\source\repos\synergy\synergy\x64\Debug\synergy.MyForm.resources
+C:\Users\Yunusovrf\source\repos\synergy\synergy\x64\Debug\synergy.vcxproj.GenerateResource.cache

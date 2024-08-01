@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\Yunusovrf\source\repos\synergy\synergy\MyForm.h(469,46): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Yunusovrf\source\repos\synergy\synergy\MyForm.h(477,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Yunusovrf\source\repos\synergy\synergy\MyForm.h(505,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  synergy.vcxproj -> C:\Users\Yunusovrf\source\repos\synergy\x64\Debug\synergy.exe
